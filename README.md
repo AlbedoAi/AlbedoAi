@@ -1,4 +1,4 @@
-# Hello I am, Shu Raturi
+# Hello, I am Shu Raturi
 <a href="https://linkedin.com"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
 I am a recent graduate specializing in Cybersecurity. Equipped with up-to-date industry knowledge and technical skills, I am poised to contribute to the dynamic field of digital security.
