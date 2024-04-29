@@ -19,8 +19,6 @@ With hands-on experience in projects and real-world simulations, I bring practic
 
 ## Tools
 <div>
-    <img src="https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
     <img src="https://img.shields.io/badge/-Hydra-678DB2?style=for-the-badge&logo=hydra&logoColor=white" />
     <img src="https://img.shields.io/badge/-Metasploit-ED1C24?style=for-the-badge&logo=metasploit&logoColor=white" />
     <img src="https://img.shields.io/badge/-VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" />
@@ -35,7 +33,11 @@ With hands-on experience in projects and real-world simulations, I bring practic
     <img src="https://img.shields.io/badge/-Burp%20Suite-FF4500?style=for-the-badge&logo=burp&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nessus-00AEFF?style=for-the-badge&logo=nessus&logoColor=white" />
 </div>
-
+### Operating Systems
+<div>
+    <img src="https://img.shields.io/badge/-Linux-000000?style=for-the-badge&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+</div>
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
