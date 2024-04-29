@@ -10,9 +10,9 @@ With hands-on experience in projects and real-world simulations, I bring practic
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Network Audit                                 | Lab|
+| Private Mail Server                                 | Lab|
 | Network Traffic Monitoring and Attack Detection | Lab|
-| Setting up Private Mail Server                | Lab|
+| Network Audi                | Lab|
 | Incident Response Planning and Execution      | Lab|
 | Operating System Exploitation                  | Lab|
 | Scripting and Automation for Threat Mitigation | Lab|
