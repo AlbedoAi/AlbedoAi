@@ -33,7 +33,6 @@ With hands-on experience in projects and real-world simulations, I bring practic
     <img src="https://img.shields.io/badge/-pfSense-222222?style=for-the-badge&logo=pfSense&logoColor=white" />
     <img src="https://img.shields.io/badge/-ZAP-1A1A1A?style=for-the-badge&logo=owasp&logoColor=white" />
     <img src="https://img.shields.io/badge/-Burp%20Suite-FF4500?style=for-the-badge&logo=burp&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Aircrack%2Dng-9F000F?style=for-the-badge&logo=aircrack-ng&logoColor=white" />
     <img src="https://img.shields.io/badge/-Nessus-00AEFF?style=for-the-badge&logo=nessus&logoColor=white" />
 </div>
 
