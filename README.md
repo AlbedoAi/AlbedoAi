@@ -12,10 +12,10 @@ With hands-on experience in projects and real-world simulations, I bring practic
 |-----------------------------------------------|----------------------------|
 | Creating Private Mail Server                                 | [Lab](https://github.com/AlbedoAi/Mail-Server)|
 | Network Traffic Monitoring and Attack Detection | Lab|
-| Network Audi                | Lab|
+| Network Audit                | Lab|
 | Incident Response Planning and Execution      | Lab|
 | Operating System Exploitation                  | Lab|
-| Scripting and Automation for Threat Mitigation | Lab|
+| Scripting and Automation for Threat Mitigation | [Lab](https://github.com/AlbedoAi/Python-Projects)|
 
 ## Tools
 <div>
@@ -38,3 +38,4 @@ Working on to acquire.
 - Network Audit
 - Operating System Exploitation
 - Network Traffic Monitoring And Attack Detection
+- [Scripting](https://github.com/AlbedoAi/Python-Projects)
