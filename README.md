@@ -34,7 +34,7 @@ Working on to acquire.
 </div>
 
 ## Projects
-- Private Mail Server
+- [Private Mail Server](https://github.com/AlbedoAi/Mail-Server)
 - Network Audit
 - Operating System Exploitation
 - Network Traffic Monitoring And Attack Detection
