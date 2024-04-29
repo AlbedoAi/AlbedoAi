@@ -19,7 +19,7 @@ With hands-on experience in projects and real-world simulations, I bring practic
 
 ## Tools
 <div>
-  
+  <img src="https://img.shields.io/badge/-Operating%20Systems%20-%20Windows%2FLinux-0078D6?style=for-the-badge&logo=Windows&logoColor=white&labelColor=black" />
 </div>
 
 ### Network
