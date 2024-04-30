@@ -9,8 +9,6 @@ I'm a cybersecurity student eager to learn and grow in the field. My skill set e
 - 🚀 Able to work independently or collaboratively in team environments.
 - 👨‍💻 Passionate about programming and contributing effectively to projects.
 
-Let's connect and learn together! 🚀
-
 ## Objective
 With hands-on experience in projects and real-world simulations, I bring practical problem-solving acumen to the table. As organizations grapple with increasing cybersecurity challenges, I am ready to apply my skills to safeguard digital assets and ensure information system resilience.
 
