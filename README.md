@@ -1,7 +1,15 @@
 # Hello, I am Shu Raturi
 <a href="https://www.linkedin.com/in/shubham-raturi-797229288/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-I am a recent graduate specializing in Cybersecurity. Equipped with up-to-date industry knowledge and technical skills, I am poised to contribute to the dynamic field of digital security.
+I'm a cybersecurity student eager to learn and grow in the field. My skill set encompasses various areas of cybersecurity, including network security, Linux administration, web security, computer security, and coding abilities. With a deep understanding of cybersecurity principles, I'm capable of setting up secure networks using Linux or Windows systems.
+
+- 💻 Proficient in network security, Linux administration, web security, and coding.
+- 🔒 Skilled in setting up secure networks and implementing cybersecurity best practices.
+- 🌐 Knowledgeable in both Linux and Windows systems.
+- 🚀 Able to work independently or collaboratively in team environments.
+- 👨‍💻 Passionate about programming and contributing effectively to projects.
+
+Let's connect and learn together! 🚀
 
 ## Objective
 With hands-on experience in projects and real-world simulations, I bring practical problem-solving acumen to the table. As organizations grapple with increasing cybersecurity challenges, I am ready to apply my skills to safeguard digital assets and ensure information system resilience.
