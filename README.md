@@ -22,6 +22,8 @@ With hands-on experience in projects and real-world simulations, I bring practic
 | Incident Response Planning and Execution      | Lab|
 | Operating System Exploitation                  | Lab|
 | Scripting and Automation for Threat Mitigation | [Lab](https://github.com/AlbedoAi/Python-Projects)|
+| Managing IoT Devices with AWS | [Lab](https://github.com/AlbedoAi/picoWProjects)|
+
 
 ## Tools
 <div>
@@ -32,6 +34,7 @@ With hands-on experience in projects and real-world simulations, I bring practic
     <img src="https://img.shields.io/badge/-Sqlmap-FFA500?style=for-the-badge&logo=sqlmap&logoColor=white" />
     <img src="https://img.shields.io/badge/-ZAP-1A1A1A?style=for-the-badge&logo=owasp&logoColor=white" />
     <img src="https://img.shields.io/badge/-Burp%20Suite-FF4500?style=for-the-badge&logo=burp&logoColor=white" />
+    <img src="https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </div>
 
 ### Operating Systems
@@ -69,3 +72,4 @@ Working on to acquire.
 - Operating System Exploitation
 - Network Traffic Monitoring And Attack Detection
 - [Scripting](https://github.com/AlbedoAi/Python-Projects)
+- [IoT Projects](https://github.com/AlbedoAi/picoWProjects)
