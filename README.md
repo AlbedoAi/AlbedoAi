@@ -17,9 +17,8 @@ With hands-on experience in projects and real-world simulations, I bring practic
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
 | Creating Private Mail Server                                 | [Lab](https://github.com/AlbedoAi/Mail-Server)|
-| Network Traffic Monitoring and Attack Detection | Lab|
+| Home Lab / Network Traffic Monitoring | [Lab](https://github.com/AlbedoAi/home-lab)|
 | Network Audit                | Lab|
-| Incident Response Planning and Execution      | Lab|
 | Operating System Exploitation                  | Lab|
 | Scripting and Automation for Threat Mitigation | [Lab](https://github.com/AlbedoAi/Python-Projects)|
 | Managing IoT Devices with AWS | [Lab](https://github.com/AlbedoAi/picoWProjects)|
